@@ -4,5 +4,5 @@
 - 👑 Achievement: Highest mark in course
 
 ### Objectives:
-(a) To review and strengthen concepts about linked lists through an application development.
-(b) To review techniques of dynamic data structure creation and manipulation. 
+- (a) To review and strengthen concepts about linked lists through an application development.
+- (b) To review techniques of dynamic data structure creation and manipulation. 
